@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
+	native "github.com/mojzesh/linmath"
 	"github.com/stretchr/testify/assert"
-	native "github.com/xlab/linmath-go/linmath"
 )
 
 const seed = 777
